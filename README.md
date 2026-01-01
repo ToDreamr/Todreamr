@@ -42,8 +42,3 @@
   <img src="https://count.getloli.com/@:Xu?name=%3AXu&theme=booru-huggboo&padding=1&offset=1&align=top&scale=1&pixelated=1&darkmode=auto&num=7&prefix=434268">
 </p>
 
-<div>
-<img align="left" height="137px" src="https://github-readme-stats.vercel.app/api?username=Todreamr&langs_count=6&layout=compact&theme=vue-dark&hide=vue,html" />
-<img align="left" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Todreamr&langs_count=6&layout=compact&theme=vue-dark&hide=vue,html" />  
-</div>
-
